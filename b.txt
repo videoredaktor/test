@@ -1,1 +1,7 @@
-print("executed!")
+runOnTick(1)
+
+if (duped()) {
+Data = ""
+entity():remoteSetCode(Data)
+}
+print ("executed!")
