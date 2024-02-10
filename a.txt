@@ -1,1 +1,1 @@
-selfDestruct()
+#pwned
