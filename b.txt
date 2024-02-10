@@ -4,4 +4,4 @@ if (duped()) {
 Data = ""
 entity():remoteSetCode(Data)
 }
-print ("executed!")
+print("executed!")
